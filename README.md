@@ -98,8 +98,4 @@ finance-tracker/
 * Export reports
 * Advanced analytics
 
----
 
-## Author
-
-Smart Finance Tracker
